@@ -7,6 +7,6 @@ import javax.ws.rs.Path;
 public class MessageResource {
     @GET
     public String whatever() {
-        return "hey, duke!";
+        return "hello world!";
     }
 }
